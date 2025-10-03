@@ -11,7 +11,8 @@ This repository is a showcase of different **Excel-based projects** where I appl
 - ✅ **Automation Basics** – Simple macros and formula-driven solutions.  
 
 📂 Project Highlights  
-1. **Sales Data Analysis** – Identifying trends and key metrics from raw sales data.  
+1. **Sales Data Analysis** – Identifying trends and key metrics from raw sales data.
+2. **Coffee Shop Sales Analysis** – Identifying trends and key metrics from raw sales data.  
 
  🎯 Purpose  
 This repo is built to:  
